@@ -1,3 +1,5 @@
+THis is a dumy project that i have created to learn agentic AI and interactions.
+
 1. USER PROMPT: "I have $1500 for a 4-day solo adventure in Tokyo next week."
        │
        ▼
